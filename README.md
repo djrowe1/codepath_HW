@@ -1,2 +1,3 @@
-# codepath_HW
-HW for CodePath
+# codepath_homework
+
+See branches for assignments.
