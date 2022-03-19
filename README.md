@@ -31,11 +31,11 @@ Description:
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration
 
-Description:
+Description: Existing usernames with incorrect passwords result in a bolded message while invalid usernames do not produce a bolded message.
 
-<img src="green-vuln1.gif">
+<img src="Rowe_Green_1.gif">
 
 Vulnerability #2: __________________
 
