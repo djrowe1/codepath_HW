@@ -37,11 +37,11 @@ Description: Existing usernames with incorrect passwords result in a bolded mess
 
 <img src="Rowe_Green_1.gif">
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Scripting (XSS)
 
-Description:
+Description: The name and feedback fields are not properly sanitized allowing attackers to embed scripts into the fields that will trigger when the admin tries to view them.
 
-<img src="green-vuln2.gif">
+<img src="Rowe_Green_2.gif">
 
 
 ## Red
