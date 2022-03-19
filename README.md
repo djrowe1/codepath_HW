@@ -23,11 +23,11 @@ Description:
 
 <img src="Rowe_Blue_1.gif">
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking/Fixation - The session IDs are not regenerated when logging in. The same PHPSESSID from the RED site is used for accessing the blue site.
 
 Description:
 
-<img src="blue-vuln2.gif">
+<img src="Rowe_Blue_2.gif">
 
 ## Green
 
