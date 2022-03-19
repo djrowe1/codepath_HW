@@ -17,7 +17,7 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injection (SQLi) - Utilizing the ID parameter in the URL parameter for the salesperson list, one can execute the SLEEP() function and make the site stall.
 
 Description:
 
