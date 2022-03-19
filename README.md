@@ -52,13 +52,13 @@ Description: The salesperson area allows users to access page IDs they aren't su
 
 <img src="Rowe_Red_1.gif">
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Request Forgery (CSRF)
 
-Description:
+Description: Did not figure out how to exploit this one but strongly suspect the red site is vulrenable by process of elimination.
 
 <img src="red-vuln2.gif">
 
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Smooth saling except for the Cross-Site Request Forgery challenge.
