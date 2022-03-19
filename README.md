@@ -61,4 +61,4 @@ Description: Did not figure out how to exploit this one but strongly suspect the
 
 ## Notes
 
-Smooth saling except for the Cross-Site Request Forgery challenge.
+Fun saling except for the Cross-Site Request Forgery challenge.
