@@ -21,7 +21,7 @@ Vulnerability #1: SQL Injection (SQLi) - Utilizing the ID parameter in the URL p
 
 Description:
 
-<img src="blue-vuln1.gif">
+<img src="Rowe_Blue_1.gif">
 
 Vulnerability #2: __________________
 
