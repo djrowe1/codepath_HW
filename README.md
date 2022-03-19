@@ -46,11 +46,11 @@ Description:
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
-Description:
+Description: The salesperson area allows users to access page IDs they aren't supposed to because the query parameter "id" can be referenced directly, such as "Testy McTesterson" and "Lazy Lazyman" which are not suppose to be public. The other two (blue and green) sites do not allow the "id" numbers to be set above a certain point.
 
-<img src="red-vuln1.gif">
+<img src="Rowe_Red_1.gif">
 
 Vulnerability #2: __________________
 
