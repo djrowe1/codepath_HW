@@ -15,34 +15,17 @@ I used the Google Cloud Platform to setup a Virtual Machine for the MHN Admin. I
 **Summary:** Briefly in your own words, what does dionaea do?
 Dionaea is a honeypot setup that is used to trap malware attacks so that we can utilize that information to better defend our own applications from such attacks. After creating the honeypot VM, I installed Dionaea using the script command that I copied from the MHN admin console.
 
-<img src="dRowe_Honeypot.gif">
+<img src="Rowe_Honeypot.gif">
 
 ### Database Backup (Required) 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+The MHN-Admin uses a RDBMS database that store data in JSON format. The exported JSON file name 'session' contains a record of all the samples collected during the honeypot execution.
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
-
-### Deploying Additional Honeypot(s) (Optional)
-
-#### X Honeypot
-
-**Summary:** What does this honeypot simulate and do for a security researcher?
-
-<img src="x-honeypot.gif">
-
-### Malware Capture and Identification (Optional)
-
-#### X Malware
-
-**Summary:** How did you find it? Which honeypot captured it? What does each malware do?
-
-MD5 Hash: *Run `md5sum` on the file and record the hash here.*
-
-SHA1 Hash: *Run `sha1sum` on the file and record the hash here.*
-
-<img src="x-malware.gif">
+Upload completed.
 
 ## Notes
 
 Describe any challenges encountered while doing the assignment.
+This challenge was a lot of fun. I followed the assignment instructions and everything went really smooth.
