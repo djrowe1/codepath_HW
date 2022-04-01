@@ -20,7 +20,7 @@ Dionaea is a honeypot setup that is used to trap malware attacks so that we can 
 ### Database Backup (Required) 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
-The MHN-Admin uses a RDBMS database that store data in JSON format. The exported JSON file name 'session' contains a record of all the samples collected during the honeypot execution.
+The MHN-Admin uses a RDBMS database that stores data in JSON format. The exported JSON file name 'session' contains a record of all the samples collected during the honeypot execution.
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 Upload completed.
