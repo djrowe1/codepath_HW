@@ -1,3 +1,3 @@
-# codepath_homework
+# Codepath Software Security
 
 See branches for assignments.
